@@ -12,7 +12,7 @@ export const musicData: Song[] = [
     title: "Starboy",
     artistName: "The Weeknd",
     thumbnail: "/image/image-1.png",
-    musicUrl: "/music/starboy.mp3",
+    musicUrl: "/music/Starboy.mp3",
     duration: parseDurationToSeconds("3:47"),
     backgroundGradient: "linear-gradient(to bottom, #3B1F1F, #1C1C1C)",
     textColor: "#FFE4E1", // Light rose for warm dark red background
