@@ -5,7 +5,6 @@ import "./globals.css"
 export const metadata: Metadata = {
   title: "Music Player",
   description: "A custom music player application",
-    generator: 'v0.dev'
 }
 
 export default function RootLayout({
